@@ -46,6 +46,9 @@ $cf_config['include_captions'] = true;
 //разбивать по категориям
 $cf_config['include_categories'] = true;
 
+//удалять дочерние категории при очистке и обновлении каталога
+$cf_config['delete_subcategories'] = true;
+
 //создавать категории
 $cf_config['add_category'] = true;
 
